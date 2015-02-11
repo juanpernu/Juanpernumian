@@ -1,0 +1,89 @@
+@media only screen and (max-width: 991px) {
+	  .desc {
+	    margin-top: 8rem;
+	  }
+
+	  .presentation h1{
+	  	font-size: 4em;
+	  }
+
+	  .presentation h3{
+	  	font-size: 1.5em;
+	  }
+
+	  .cuote p {
+	  	font-size: 1.9em;
+	  	padding-top: 7rem;
+	  }
+
+	#brands .col-md-4 {
+		margin-top: 4rem;
+		margin-bottom: 4rem;
+	}
+
+	#brands img.brand {
+		max-width: 40%;
+	}
+  }
+
+@media only screen and (max-width: 767px) {
+
+	.info .col-xs-6 {
+		text-align: left;
+		margin-bottom: .5rem;
+	}
+
+	#brands img.brand {
+		max-width: 50%;
+	}
+  }
+
+@media screen and (max-width: 480px) {
+
+	.cuote {
+		height: 50vh;
+	}
+
+	  .cuote p {
+	  	font-size: 1.6em;
+	  	padding-top: 7rem;
+	  	margin-left: 3rem;
+		margin-right: 3rem;
+	  }
+
+	  .presentation h1{
+	  	font-size: 3.3em;
+	  }
+
+	  .presentation h3{
+	  	font-size: 1.2em;
+	  }
+
+	  .desc {
+	    padding-bottom: 4rem;
+	  }
+
+	  #brands h2 {
+		font-size: 1.8em;
+		width: 280px;
+	}
+
+	#brands .col-md-4 {
+		margin-top: 6rem;
+		margin-bottom: 6rem;
+	}
+
+	nav .col-md-2,
+	nav .col-md-3 {
+		width: 100%;
+		margin: .6rem 0 .6rem 0;
+	}
+
+	nav a {
+		font-size: .9em;
+	}
+
+	#brands img.brand {
+		max-width: 70%;
+	}
+  }
